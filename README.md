@@ -1,2 +1,2 @@
 # Albedo-Password-Gen
-Password generator made with C@
+Password generator made with C#
